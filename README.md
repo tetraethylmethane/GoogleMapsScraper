@@ -1,6 +1,4 @@
 # Google maps scraper
-![build](https://github.com/gosom/google-maps-scraper/actions/workflows/build.yml/badge.svg)
-[![Go Report Card](https://goreportcard.com/badge/github.com/gosom/google-maps-scraper)](https://goreportcard.com/report/github.com/gosom/google-maps-scraper)
 
 A command line google maps scraper build using 
 
