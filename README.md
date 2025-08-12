@@ -1,13 +1,6 @@
 # Google maps scraper
 
-A command line google maps scraper build using 
-
-[scrapemate](https://github.com/gosom/scrapemate) web crawling framework.
-
-You can use this repository either as is, or you can use it's code as a base and
-customize it to your needs
-
-**Update** Added email extraction from business website support
+A command line google maps scraper build using [scrapemate](https://github.com/gosom/scrapemate) web crawling framework with email extraction from business website support
 
 ## Features
 
@@ -221,13 +214,4 @@ We expect this to take about 10000/55 ~ 291 minutes ~ 5 hours
 
 If you want to scrape many keywords then it's better to use the Database Provider in
 combination with Kubernetes for convenience and start multipe scrapers in more than 1 machines.
-
-## References
-
-For more instruction you may also read the following links
-
-- https://blog.gkomninos.com/how-to-extract-data-from-google-maps-using-golang
-- https://blog.gkomninos.com/distributed-google-maps-scraping
-- https://github.com/omkarcloud/google-maps-scraper/tree/master (also a nice project) [many thanks for the idea to extract the data by utilizing the JS objects]
-
 
