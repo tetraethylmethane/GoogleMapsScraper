@@ -231,19 +231,3 @@ For more instruction you may also read the following links
 - https://github.com/omkarcloud/google-maps-scraper/tree/master (also a nice project) [many thanks for the idea to extract the data by utilizing the JS objects]
 
 
-## Licence
-
-This code is licenced under the MIT Licence
-
-
-## Contributing
-
-Please open an ISSUE or make a Pull Request
-
-
-## Notes
-
-Please use this scraper responsibly
-
-banner is generated using OpenAI's DALE
-
